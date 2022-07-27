@@ -40,7 +40,7 @@ var TETRIS = {
     },
     ScoreMultiplier: 10, // Score multiplier
     StartingSpeed: 1000, // Starting interval speed (in microsecond)
-    VoidColor: '#fafafa' // Color of a blank/void block (in HTML color)
+    VoidColor: null //'#fafafa' // Color of a blank/void block (in HTML color)
   },
 
   // ========= //
